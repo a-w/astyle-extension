@@ -1,5 +1,10 @@
-astyle-extension
-================
+# Fork of astyle-extension for DEUTA Werke
+This is a fork of astyle-extension that additionally supports the indentable macros DECLARE_XML_ELEMENT and END_XML_ELEMENT. 
+
+for more information on that astyle fork, see https://github.com/a-w/astyle/tree/feature/XmlParser_Support.
+
+
+# astyle-extension
 
 An extension for Visual Studio, AVR Studio and Atmel Studio to format C/C++ and C# documents using Artistic Style engine.
 
